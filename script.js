@@ -11,7 +11,9 @@ button.addEventListener('click', function (){
         todoList.appendChild(newItem);
     }
 
-
+else{
+    console.log("enter the activity");
+}
 })
 
 
